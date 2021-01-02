@@ -1,5 +1,6 @@
 body {
   background-color: #f5fffa;
+  background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
   color: #000000;
   font-family: Arial, Helvetica, sans-sarif;
   margin: 10% 20%;
@@ -10,5 +11,5 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #000000;
   border-bottom: 1px solid #000000;
-  background-color: rgba(0,0,0,0.05)
+  background-color: rgba(0,0,0,0.06)
 }
